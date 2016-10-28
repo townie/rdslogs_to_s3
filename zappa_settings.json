@@ -1,0 +1,6 @@
+{
+    "production": {
+        "app_function": "rds_mysql_to_s3.app", 
+        "s3_bucket": "rdslogs_zappa"
+    }
+}
